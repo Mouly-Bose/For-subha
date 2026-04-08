@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday</title>
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; background-color: #f8f9fa; color: #333; text-align: center; padding: 50px 20px; }
+        .container { background: #fff; padding: 40px 30px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); display: inline-block; max-width: 480px; width: 100%; border-top: 6px solid #3498db; }
+        h1 { color: #2c3e50; font-size: 26px; margin-bottom: 25px; font-weight: 600; }
+        .code-style { font-family: 'Consolas', 'Courier New', monospace; background: #2d3436; padding: 20px; border-radius: 10px; text-align: left; font-size: 14px; color: #fab1a0; margin-bottom: 30px; line-height: 1.7; }
+        .message { font-size: 17px; line-height: 1.8; color: #444; }
+        b { color: #e74c3c; }
+        .english { font-weight: 600; color: #2ecc71; margin: 20px 0; font-style: italic; display: block; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Deploying Success v26.0</h1>
+        
+        <div class="code-style">
+            while (life_status == "Active") {<br>
+            &nbsp;&nbsp;Shopify.maximize_growth();<br>
+            &nbsp;&nbsp;WordPress.optimize_joy();<br>
+            &nbsp;&nbsp;return "Unlimited_Happiness";<br>
+            }
+        </div>
+
+        <div class="message">
+            <span class="english">
+                "May your life be as customizable as a WordPress theme and your success as scalable as a top-performing Shopify store."
+            </span>
+            <p>শুভ, তোমার জন্য এই বিশেষ দিনে ছোট্ট এই <b>Virtual Gift</b>।</p>
+            <p>তোমার জীবনটা যেন তোমার প্রিয় প্রোজেক্টগুলোর মতোই সবসময় 'Smooth' আর 'Bug-free' থাকে।</p>
+            <p><b>শুভ জন্মদিন! ❤️✨</b></p>
+        </div>
+    </div>
+</body>
+</html>
